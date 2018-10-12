@@ -1,4 +1,4 @@
-> **在配置uWSGI与Django的过程中，通过查询[uWSGI官方文档](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)照葫芦画瓢，但有一处笔误导致我这个菜鸡踩坑:**
+> **在配置uWSGI与Django的过程中，通过查询[uWSGI官方文档](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html#configure-nginx-for-your-site)照葫芦画瓢，但有一处笔误导致我这个菜鸡踩坑:**
 ![](img/201810121300.PNG)
 
 >重启nginx提示:<br>
